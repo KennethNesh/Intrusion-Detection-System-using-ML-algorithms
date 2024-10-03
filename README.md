@@ -1,6 +1,6 @@
 1. Install Required Python Packages: Ensure that you have the necessary Python packages installed on your system. You can do this by running the following command in your terminal or command prompt:
 
-pip install numpy pandas scikit-learn
+    pip install numpy pandas scikit-learn
 
 
 2. Specify the Absolute Path for Your CSV File: Make sure to provide the absolute path to the CSV file you intend to use. For example, instead of using a relative path like data/file.csv, use something like C:/Users/YourUsername/Documents/data/file.csv.
